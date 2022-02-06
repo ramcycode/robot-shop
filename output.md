@@ -15,6 +15,9 @@ The following image is the orginal Home Page
 
 ![Alt text](/images/StanHomePage.png?raw=true "Orginal Home Page")
 
+<br>Screenshot from Instana APM<br>
+![Instana](https://user-images.githubusercontent.com/98928108/152668115-5101d073-98cb-4af3-ab89-cd6977ab17ad.PNG)
+
 
 Step 14
 You will need to setup rules that merges only happened via pull requests to manage changes. You can setup a Branch protection rule. Did not make any changes to repository settings
