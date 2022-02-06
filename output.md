@@ -25,6 +25,6 @@ You will need to setup rules that merges only happened via pull requests to mana
 
 
 
-The following image is the Updated Home Page. After following Step 15.
+The following is the screenshot from updated Home Page. 
 
 ![Alt text](/images/UpdateHomePage.png?raw=true "Updated Home Page")
