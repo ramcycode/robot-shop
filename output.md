@@ -1,12 +1,14 @@
 From clone repository followed directions to create Instana account
 
-Step 12
+Created branch ram <br>
 
-Followed directions mentioined to Build and Run.<br>
+
+Followed directions mentioned to Build and Run.<br>
 docker-compose build<br>
 docker-compose up<br>
-Once all the download and docker was running<br>
-Visited http://localhost:8080/<br>
+Once all the required packages were downloaded and docker was running<br><br>
+
+Accessed http://localhost:8080/<br>
 The following image is the orginal Home Page
 
 ![Alt text](/images/StanHomePage.png?raw=true "Orginal Home Page")
